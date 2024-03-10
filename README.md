@@ -1,8 +1,3 @@
-# React + Vite
+Bu Site Bursa Büyük Şehir Belediyesi ve Üretken Akademi İş Birliği ile Düzenlenen </code16> Temel Seviye Yazılım Akedemisinin Final Projesidir.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Sitedeki fotoğraflar www.gotobursa.com.tr linkinden alınmıştır ve https://acikyesil.bursa.bel.tr/dataset/ adresindeki veriler kullanılmıştır.

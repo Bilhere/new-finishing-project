@@ -1,11 +1,11 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
-import { SiteRoutes, Routes, Route, NavLink } from "react-router-dom";
-
+import {Routes, Route, NavLink } from "react-router-dom";
+import { SiteRoutes as ExternalSiteRoutes } from "react-router-dom";
 import Home from "./pages/Home";
 import Beachs from "./pages/Beachs";
 
-function SiteRouter () {
+function SiteRoutes () {
     return (
       <SiteRoutes>
         <NavLink

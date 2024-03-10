@@ -1,9 +1,6 @@
 /* eslint-disable no-unused-vars */
-
 import React from 'react';
-
 import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
-
 import Home from "../pages/Home";
 import Beachs from "../pages/Beachs";
 
@@ -36,30 +33,34 @@ function Navbar () {
             </div>
           </div>
         </nav>
-        <BrowserRouter>
-          <NavLink
-            to="/"
-            className="nav-link"
-            style={({ isActive }) => ({
-              color: isActive ? "blue" : "black",
-            })}
-          >
-            Home
-          </NavLink>
-          <NavLink
-            to="/Beachs"
-            className="nav-link"
-            style={({ isActive }) => ({
-              color: isActive ? "blue" : "black",
-            })}
-          >
-            Beachs
-          </NavLink>
-          <Routes>
-            <Route exact path="/" element={<Home />} />
-            <Route exact path="/Beachs" element={<Beachs />} />
-          </Routes>
-        </BrowserRouter>
+        
+          <div className="row">
+            <BrowserRouter>
+              <NavLink
+                to="/"
+                className="btn btn-lg btn-primary position-relative mr-2"
+                style={({ isActive }) => ({
+                  color: isActive ? "white" : "lightgray",
+                })}
+              >
+                Ana Sayfa
+              </NavLink>
+              <NavLink
+                to="/Beachs"
+                className="btn btn-lg btn-primary position-relative mr-2"
+                style={({ isActive }) => ({
+                  color: isActive ? "white" : "lightgray",
+                })}
+              >
+                Plajlar
+              </NavLink>
+              <Routes>
+                <Route exact path="/" element={<Home />} />
+                <Route exact path="/Beachs" element={<Beachs />} />
+              </Routes>
+            </BrowserRouter>
+          </div>
+        
       </>
     );
 }
