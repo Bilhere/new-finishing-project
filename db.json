@@ -66,59 +66,6 @@
         "coordinates": [359882.8459, 4475449.9484]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "OBJECTID": 409,
-        "ILCE": "KARACABEY",
-        "MAHALLE": "BAYRAMDERE",
-        "ADI": "YENÄ°KÃ–Y HALK PLAJI",
-        "ADRES": null,
-        "PLAJ_UZUNL": 1950,
-        "ORTALAMA_G": 100,
-        "DUS_ADET": 6,
-        "SOYUNMA_KA": 7,
-        "COP_KASNAG": 30,
-        "TUVALET_AD": 4,
-        "TUVALET_IS": null,
-        "OZEL_ISLET": 1,
-        "CANKURTARA": 1,
-        "CANKURTA_1": 4,
-        "CANKURTA_2": 1,
-        "CANKURTA_3": 2,
-        "PLAJ_ZEMIN": null,
-        "OTOPARK_DU": 1,
-        "AKTIFMI": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [362609.11280000024, 4474994.8235]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OBJECTID": 356,
-        "ILCE": "Ä°ZNÄ°K",
-        "MAHALLE": "MUSTAFA KEMAL PAÅA",
-        "ADI": "Ä°NCÄ°RALTI MEVKI HALK PLAJI",
-        "ADRES": null,
-        "PLAJ_UZUNL": 1000,
-        "ORTALAMA_G": 5,
-        "DUS_ADET": 0,
-        "SOYUNMA_KA": 2,
-        "COP_KASNAG": 0,
-        "TUVALET_AD": 0,
-        "TUVALET_IS": null,
-        "OZEL_ISLET": 1,
-        "CANKURTARA": 1,
-        "CANKURTA_1": 6,
-        "CANKURTA_2": 1,
-        "CANKURTA_3": 1,
-        "PLAJ_ZEMIN": null,
-        "OTOPARK_DU": 0,
-        "AKTIFMI": 0
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [475817.7479999997, 4477859.0921]
