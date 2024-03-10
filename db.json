@@ -34,40 +34,6 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [354201.75320000015, 4475312.2681]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OBJECTID": 411,
-        "ILCE": "KARACABEY",
-        "MAHALLE": "KURÅUNLU",
-        "ADI": "MALKARA HALK PLAJI",
-        "ADRES": null,
-        "PLAJ_UZUNL": 2150,
-        "ORTALAMA_G": 30,
-        "DUS_ADET": 11,
-        "SOYUNMA_KA": 10,
-        "COP_KASNAG": 53,
-        "TUVALET_AD": 2,
-        "TUVALET_IS": null,
-        "OZEL_ISLET": 1,
-        "CANKURTARA": 1,
-        "CANKURTA_1": 2,
-        "CANKURTA_2": 0,
-        "CANKURTA_3": 0,
-        "PLAJ_ZEMIN": null,
-        "OTOPARK_DU": 1,
-        "AKTIFMI": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [359882.8459, 4475449.9484]
-      }
-    },
-      "geometry": {
-        "type": "Point",
         "coordinates": [475817.7479999997, 4477859.0921]
       }
     }
