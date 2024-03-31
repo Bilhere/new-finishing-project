@@ -5,8 +5,8 @@ import React, { useState, useEffect } from "react";
 
 const Beachs = () => {
   const [plajlar, setPlajlar] = useState([]);
-  const apiUrl = "https://api.npoint.io/918da7fc01ffa5781980";
-  // https://acikyesil.bursa.bel.tr/dataset/plajlar/resource/6eaa7a01-7b06-44c0-be61-125dfc9aa7d8 Adresinden de verileri çekerek projeye ekleyebilirsiniz.
+  const apiUrl = "https://api.npoint.io/1f170197c01370e05116";
+  // https://acikyesil.bursa.bel.tr/dataset/plajlar/resource/6eaa7a01-7b06-44c0-be61-125dfc9aa7d8 Direkt bu adresden veri çekerek de projeye eklenebilir.
   useEffect(() => {
     (async () => {
       const data = await fetch(apiUrl).then((res) => res.json());

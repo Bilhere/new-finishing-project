@@ -6,10 +6,9 @@ document.body.style = "background: #f3f3f3;";
 function App() {
   return (
     <>
-        <Navbar />
+      <Navbar />
     </>
   );
-
 }
 
 export default App;
