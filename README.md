@@ -2,4 +2,4 @@ Bu Site Bursa Büyük Şehir Belediyesi ve Üretken Akademi İş Birliği ile D�
 
 Sitedeki fotoğraflar www.gotobursa.com.tr linkinden alınmıştır ve https://acikyesil.bursa.bel.tr/dataset/ adresindeki veriler kullanılmıştır.
 
-Vercel linki: https://bitirme-projesi-guencel-1whdz7geq-ue-a.vercel.app
+Vercel linki: https://vercel.com/ue-a/bitirme-projesi-01-04/6WVqJdnmvjxboWosPwSWjHUnD3Le
